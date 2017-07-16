@@ -1,4 +1,4 @@
-http://mechasolution.com/shop/goods/goods_view.php?goodsno=330855# Arduino-CCTV-Using-ArduCam-ESP8266-and-OV2640
+Arduino-CCTV-Using-ArduCam-ESP8266-and-OV2640
 
 Learning principle of IP Camera
 
